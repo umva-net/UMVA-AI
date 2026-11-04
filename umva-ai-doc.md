@@ -204,4 +204,4 @@ Current recommended version: **Zed v1.26.2**.
 - **Website:** umva.net
 - **Location:** Kicukiro, Masaka, 2669+HFF Kigali, Rwanda
 - **Email:** info@umva.net
-- **Phone:** +250 799 643 498 / +250 799 640 980
+- **Phone:** +250 799 659 943 / +250 799 640 980
